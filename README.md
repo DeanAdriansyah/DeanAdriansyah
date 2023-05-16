@@ -1,13 +1,14 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">D-yan Profile</h2>
 </p>
 
-### <p align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></p>
-### <p align="center">My Name is Dean | im a Student of Informatics Engineering</p>
-### <p align="center">and im still learning</p>
+### <p align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> This is My Profile Page 📜</h2></p>
+### <p align="center">My Name is Dean Adriansyah 👨🏽‍💼 | you can call me Dey or yan 🔊</p>
+### <p align="center">im a Student of Informatics Engineering 👨‍🎓 | and im still learning 👨‍💻</p>
 </p>
 
+---
 ## 🌱 I’m currently learning
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Task
-
+# <p align="center">My Task</p>
+ 
 <table><tr><td valign="top" width="33%">
   
   ### Pemrograman Website 2
@@ -74,23 +75,24 @@ Here are some ideas to get you started:
  </td></tr></table>
  
   ---
+# <p align=center><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Contacts </p>
+  
 <p align=center>
-  # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Contacts
+ <a align="center" href="...">
+  <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ </a>
+
+ <a align="center" href="...">
+  <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+ </a>
   
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+ <a align="center" href="https:...">
+  <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+ </a>
+  
+ <a align="center" href="...">
+  <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ </a>
 </p>
-  
-  
-  
-• Not yet
+ 
+•••
