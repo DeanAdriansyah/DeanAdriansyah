@@ -8,6 +8,9 @@
 ### <p align="center">im a Student of Informatics Engineering 👨‍🎓 | and im still learning 👨‍💻</p>
 </p>
 
+![Gif](https://github.com/DeanAdriansyah/DeanAdriansyah/assets/93472471/f2220e28-3430-44fa-ae58-c98580a3c0ee)
+
+
 ---
 ## 🌱 I’m currently learning
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
