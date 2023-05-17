@@ -77,26 +77,29 @@ Here are some ideas to get you started:
   
   
  </td></tr></table>
- 
+
+
+
   ---
 # <p align=center><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Contacts </p>
   
-<p align=center>
- <a align="center" href="...">
-  <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<div align="center">
+ <a href="...">
+  <img alt="Dean Adriansyah | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /> 
  </a>
 
- <a align="center" href="...">
-  <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+ <a href="...">
+  <img alt="Dean Adriansyah | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />  
  </a>
   
- <a align="center" href="https:...">
-  <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+ <a href="https://www.instagram.com/dean_a02/">
+  <img alt="Dean Adriansyah | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/> 
  </a>
   
- <a align="center" href="...">
-  <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSMTtWNNcGSfVBhzgNQKWXPLdTgQqtNBKbjKsHWQSdsVnmBCkKzgnnxjpHDtGlmzgnNJNDvb">
+  <img alt="Dean Adriansyah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />  
  </a>
-</p>
+</div>
  
+
 •••
