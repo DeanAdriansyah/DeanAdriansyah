@@ -12,6 +12,10 @@
  <img src="https://github.com/DeanAdriansyah/DeanAdriansyah/assets/93472471/f2220e28-3430-44fa-ae58-c98580a3c0ee">
 </p>
 
+
+
+
+
 ---
 ## 🌱 I’m currently learning
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -20,7 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)](https://github.com/DeanAdriansyah)
-
 
 ## 🛠 Tools
 
@@ -31,22 +34,11 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/DeanAdriansyah)
 
-<!--
-**DeanAdriansyah/DeanAdriansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-# <p align="center">My Task</p>
+# <p align="left">My Task</p>
+<details>
  
 <table><tr><td valign="top" width="33%">
   
@@ -74,11 +66,11 @@ Here are some ideas to get you started:
   
   - [Netflix Login Page](https://github.com/DeanAdriansyah/Netflix-Login-Page) - Mobile Programing
   
-  
-  
  </td></tr></table>
+</details>
 
-
+ 
+ 
 
   ---
 # <p align=center><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Contacts </p>
