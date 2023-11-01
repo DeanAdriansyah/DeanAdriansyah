@@ -5,7 +5,7 @@
 
 ### <p align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> This is My Profile Page 📜</h2></p>
 ### <p align="center">My Name is Dean Adriansyah 👨🏽‍💼 | you can call me Dey or yan 🔊</p>
-### <p align="center">and my Lecturer call me Dynnn 😎
+### <a align="center">and my Lecturer call me Dynnn 😎
 ### <p align="center">im a Student of Informatics Engineering 👨‍🎓 | and im still learning 👨‍💻</p>
 </p>
 
