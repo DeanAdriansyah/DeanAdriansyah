@@ -58,6 +58,16 @@
   - [Lab6Web](https://github.com/DeanAdriansyah/Lab6Web)
   
   - [Lab7Web](https://github.com/DeanAdriansyah/Lab7Web)
+
+  - [Lab8Web](https://github.com/DeanAdriansyah/Lab8Web)
+
+  - [Lab9Web](https://github.com/DeanAdriansyah/Lab9Web)
+
+  - [Lab10Web](https://github.com/DeanAdriansyah/Lab10Web)
+
+  - [Lab11Web](https://github.com/DeanAdriansyah/Lab11Web)
+
+  - [Lab12Web](https://github.com/DeanAdriansyah/Lab11Web)
   
 </td><td valign="top" width="33%">
   
